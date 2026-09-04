@@ -20,7 +20,7 @@
 
 # 👨‍💻 About Me
 
-SAP UI5 / Fiori Developer with **3.8+ years of experience** building enterprise SAP applications and full-stack solutions.
+SAP UI5 / Fiori Developer with **4+ years of experience** building enterprise SAP applications and full-stack solutions.
 
 Specialized in:
 
